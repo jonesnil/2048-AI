@@ -1,3 +1,7 @@
+This is a heuristic based AI for 2048 I made in college with some other programmers, Jake and Nathanael. 
+Our goal was for it to make a 2048 tile at least once, and we ended up reaching that. It makes 2048 20% 
+of the time with our best performing heuristic, and when it doesn't it usually gets at least 1024.
+
 # b351-final-project
 # repository created 3/31/2019
 
