@@ -1,7 +1,7 @@
 # b351-final-project
 # repository created 3/31/2019
 
-#Instructions To Run 2048 AI (Updated: 5/1/2019)
+# Instructions To Run 2048 AI (Updated: 5/1/2019)
 Imports used/needed: tkinter, numpy, time, random
 In order to launch the application. Navigate in a command prompt or terminal to the folder that contains the game_menu.py script.
 Launch the game_menu.py script in a command prompt by typing "game_menu.py" and the game will automatically play with the configured heuristic.
